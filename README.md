@@ -61,4 +61,4 @@ This policy is effective as of 2021-12-04
 
 ### Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at uni@avpetrov.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at <uni@avpetrov.com>
